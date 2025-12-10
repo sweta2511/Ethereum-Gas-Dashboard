@@ -16,3 +16,5 @@ Peak hours see slightly higher fees, but differences are minor.
 Weekends (Sat/Sun) offer the cheapest transaction opportunities while friday has the highest gas price.
 
 Gas prices have remained at historic lows for 20+ days.
+
+
